@@ -8,14 +8,14 @@ two M3 socket cap screws.
 <table>
   <tr>
     <td>
-      <div style="width: 500px;">
+      <div style="width: 400px; text-align: center;">
         <img src="tk-x90-tnc-adapter.svg" alt="TNC Adapter schematic" style="width: 400px;"/>
       </div>
     </td>
   </tr>
   </tr>
     <td>
-      <div style="width: 500px;">
+      <div style="width: 400px;">
         <img src="snapshot00.png" alt="TNC Adapter parts" style="width: 400px;"/>
       </div>
     </td>
