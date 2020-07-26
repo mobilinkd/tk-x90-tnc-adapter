@@ -26,7 +26,7 @@ two M3 socket cap screws.
 
  * [DB-25 Male Solder-cup Connector](https://www.digikey.com/product-detail/en/assmann-wsw-components/A-DS-25-LL-Z/AE10984-ND/1241785)
  * [3.5mm 4-pole Panel-mount Jack](https://www.digikey.com/product-detail/en/cui-devices/SJ1-43502PM/CP-SJ1-43502PM-ND/5130707)
- * 2 M3x12 Flat Head Screws (I used socket cap screws)
+ * 2 M3x12 Socket Cap Screws
  * 2 M3 Hex Nuts
  * 2 #4-40 7.92mm Screws
  * Hookup wire
